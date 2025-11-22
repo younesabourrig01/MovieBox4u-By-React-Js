@@ -1,0 +1,19 @@
+.about {
+  margin-top: 5rem;
+}
+form input,
+form textarea {
+  display: block;
+  width: 100%;
+  background: #a8a8a8;
+  padding: 15px;
+  border: 0;
+  outline: 0;
+  margin-bottom: 15px;
+  margin-top: 5px;
+  resize: none;
+}
+span {
+  display: block;
+  margin: 20px 0;
+}

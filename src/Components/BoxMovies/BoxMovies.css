@@ -1,0 +1,9 @@
+.blur-box {
+  backdrop-filter: blur(20px);
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  border: 1px solid #ffffff40;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+  margin-bottom: 1rem;
+  margin-top: 7rem !important;
+}
